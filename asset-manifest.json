@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3ebc53a4.css",
+    "main.js": "/static/js/main.a166f7e0.js",
+    "static/media/1.svg": "/static/media/1.fa2c2a4021624c743ec7c50710a1808c.svg",
+    "static/media/7.svg": "/static/media/7.513d994ea5c56ac4d7431b0b4b70bf9b.svg",
+    "static/media/4.svg": "/static/media/4.4513ecf77bd881be000640a77840595e.svg",
+    "static/media/2.svg": "/static/media/2.a1883f119864360644e92ab5253dbd7e.svg",
+    "static/media/5.svg": "/static/media/5.197a48c17075248c91b9163d08c9307a.svg",
+    "static/media/3.svg": "/static/media/3.1aa5bedcc1ceda52432649ff36460ba1.svg",
+    "static/media/6.svg": "/static/media/6.4e05af5cc09d3ff213851cb512548329.svg",
+    "static/media/9.svg": "/static/media/9.3ffa2bff60585458376a53921695642c.svg",
+    "static/media/0.svg": "/static/media/0.8f2c29590613b44d76b0a3fcf65ebd0f.svg",
+    "static/media/8.svg": "/static/media/8.df0646e02d53b91f58f65d68d6cae447.svg",
+    "static/media/mine-exploded.svg": "/static/media/mine-exploded.6eecb2a4b1d1c5b4a1f78f8e82c00775.svg",
+    "index.html": "/index.html",
+    "static/media/flag.svg": "/static/media/flag.357d46bfdcd652b0d15240c46789924d.svg",
+    "main.3ebc53a4.css.map": "/static/css/main.3ebc53a4.css.map",
+    "main.a166f7e0.js.map": "/static/js/main.a166f7e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ebc53a4.css",
+    "static/js/main.a166f7e0.js"
+  ]
+}
